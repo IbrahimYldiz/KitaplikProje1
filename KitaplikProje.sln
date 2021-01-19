@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KitaplikProje", "KitaplikProje\KitaplikProje.csproj", "{28B56FA1-15CD-48E9-97EB-3F4900218D71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28B56FA1-15CD-48E9-97EB-3F4900218D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28B56FA1-15CD-48E9-97EB-3F4900218D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28B56FA1-15CD-48E9-97EB-3F4900218D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28B56FA1-15CD-48E9-97EB-3F4900218D71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56868071-FED8-4350-A1FD-8F2CCE50A735}
+	EndGlobalSection
+EndGlobal
